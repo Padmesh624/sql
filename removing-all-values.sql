@@ -1,0 +1,1 @@
+truncate table new_students;

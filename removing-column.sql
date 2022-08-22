@@ -1,0 +1,1 @@
+alter table student1 drop column phone_number;

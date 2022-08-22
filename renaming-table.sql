@@ -1,0 +1,1 @@
+rename table student1 to new_students;
