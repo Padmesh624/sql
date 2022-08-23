@@ -1,2 +1,2 @@
-delete from student1 where id=104;
-select * from student1;
+delete from new_students where id=104;
+select * from new_students;

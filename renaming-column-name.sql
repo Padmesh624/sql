@@ -1,1 +1,1 @@
-alter table student1 rename name to phone_number;
+alter table student1 rename column name to phone_number;
